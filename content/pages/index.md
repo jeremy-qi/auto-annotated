@@ -14,7 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Hiiiiiii
-    subtitle: My name is Jeremy
+    subtitle: >-
+      My name is Jeremy Q. I like coding, reading, doing math, fencing, and
+      sleeping in my free time. I currently attend Flintridge Preparatory
     styles:
       self:
         height: auto
