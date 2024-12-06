@@ -19,7 +19,9 @@ sections:
       robotics, and sleeping in my free time. I currently attend Flintridge
       Preparatory school and is in 7th grade. I've had many accomplishments in
       the past few years- including earning 10 medals and finishing at 11th
-      place on national rankings in the 2022-2023 year in fencing.
+      place on national rankings in the 2022-2023 year in fencing. I have also
+      earned 2nd place in the 2023-2024 VEX IQ middle school challenge(robotics)
+      national competition and other various awards.
     styles:
       self:
         height: auto
