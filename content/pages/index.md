@@ -15,9 +15,10 @@ sections:
     backgroundSize: full
     title: Hiiiiiii
     subtitle: >-
-      My name is Jeremy Q. I like coding, reading, doing math, fencing, and
-      sleeping in my free time. I currently attend Flintridge Preparatory school
-      and is in 7th grade.
+      My name is Jeremy Q. I like coding, reading, doing math, fencing, doing
+      robotics, and sleeping in my free time. I currently attend Flintridge
+      Preparatory school and is in 7th grade. I've had many accomplishments in
+      the past few years- including earning 10
     styles:
       self:
         height: auto
